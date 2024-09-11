@@ -1,0 +1,30 @@
+#section-resume-biography-3 .flex-auto {
+    max-width: 35%;    /* Increase the maximum width to 100% */
+    box-sizing: border-box; /* Ensure padding doesn't affect the overall width */
+}
+
+#section-resume-biography-3 .pt-2 {
+    max-width: 100%;    /* Increase the maximum width to 100% */
+    box-sizing: border-box; /* Ensure padding doesn't affect the overall width */
+}
+
+#section-resume-biography-3 .bio-text {
+    max-width: 100%;    /* Increase the maximum width to 100% */
+    box-sizing: border-box; /* Ensure padding doesn't affect the overall width */
+}
+
+div.mx-auto.flex.max-w-screen-xl {
+    max-width: 60%;    /* Increase the maximum width to 100% */
+    box-sizing: border-box; /* Ensure padding doesn't affect the overall width */
+}
+
+div.prose {
+    max-width: 100%;    /* Increase the maximum width to 100% */
+    box-sizing: border-box; /* Ensure padding doesn't affect the overall width */
+    font-size: 100%;
+}
+
+div.max-w-prose {
+    max-width: 100%;    /* Increase the maximum width to 100% */
+    box-sizing: border-box; /* Ensure padding doesn't affect the overall width */
+}
